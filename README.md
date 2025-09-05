@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg )](https://opensource.org/licenses/MIT )
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg )](https://www.python.org/downloads/ )
-[![made-with-colab](https://colab.research.google.com/assets/colab-badge.svg )](https://colab.research.google.com/github/NAMA_USER_ANDA/doi-to-reference-converter/blob/main/DOI_Converter_Colab.ipynb )
+[![made-with-colab](https://colab.research.google.com/assets/colab-badge.svg )](https://colab.research.google.com/github/engkinandatama/doi-to-reference-converter/blob/main/DOI_Converter_Colab.ipynb )
 
 A versatile Python tool to batch convert a list of DOIs (Digital Object Identifiers) into `.ris` or `.bib` reference files. Designed for researchers, students, and writers to streamline their reference management workflow.
 
